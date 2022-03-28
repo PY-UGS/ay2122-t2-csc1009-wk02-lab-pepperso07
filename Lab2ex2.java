@@ -1,4 +1,4 @@
-package Wk2;
+
 import java.util.Scanner; 
 
 public class Lab2ex2 {
