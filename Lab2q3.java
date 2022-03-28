@@ -1,4 +1,4 @@
-package Wk2;
+
 
 public class Lab2q3 {
  public static void main(String[] args) {
